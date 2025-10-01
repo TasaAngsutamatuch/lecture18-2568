@@ -1,5 +1,11 @@
 # Lecture 18 - RESTful API (Part 3)
+# Lab 16 - RESTful API (Part 3)
 
+### ป้อนข้อมูลนักศึกษา
+
+รหัส นศ.: 670610694
+
+ชื่อ-สกุล : ทศา อังศุธรรมทัต
 ### Content
 
 - Current API
