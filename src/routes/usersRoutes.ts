@@ -1,6 +1,6 @@
 import { Router, type Request, type Response } from "express";
 import jwt from "jsonwebtoken";
-import dotenv from "dotenv";
+import dotenv from "dotenv"
 dotenv.config();
 
 import type { User, CustomRequest, UserPayload } from "../libs/types.js";
